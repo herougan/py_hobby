@@ -1,5 +1,0 @@
-imageio
-matplotlib
-pandas
-scipy
-numpy
